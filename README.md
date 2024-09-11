@@ -38,7 +38,7 @@
 
 ---
 
-Visitor Count
+## 📈 Visitor Count
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Nuu-maan.Nuu-maan)](https://visitor-badge.glitch.me)
 
 ---
