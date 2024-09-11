@@ -1,7 +1,7 @@
 # Hi there, I'm Numan! 👋
 
 ## 🚀 About Me
-- 👨‍💻 I’m a 17-year-old computer science student.
+- 👨‍💻 I’m a 16-year-old computer science student.
 - 🌱 Currently learning JavaScript, building public projects, and focusing on Discord bots and web development.
 - 🎮 In my free time, I play online and offline games, and I enjoy listening to songs.
 - 💼 Open for collaboration on Discord bot projects and web apps.
