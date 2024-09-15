@@ -48,15 +48,3 @@
 - [Email](mailto:helloo@contactnuman.xyz)
 - [Discord](https://discord.gg/delhites)
 
----
-
-## 🚧 Current Projects
-- **Uwaiz's Portfolio**: Building an portfolio for a professional BGMI player.
-- **Public Discord Bot**: Creating a versatile Discord bot using Discord.js.
-- **Razor Boosts**: Enhancing the design and functionality of a web project for Discord boosts.
-
----
-
-## 🎉 Fun Facts
-- I love experimenting with different tech stacks!
-- I'm a fan of horror-themed designs.
