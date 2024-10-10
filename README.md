@@ -5,6 +5,7 @@
 - 🌱 Currently learning JavaScript, building public projects, and focusing on Discord bots and web development.
 - 🎮 In my free time, I play online and offline games, and I enjoy listening to songs.
 - 💼 Open for collaboration on Discord bot projects and web apps.
+[![Discord Presence](https://lanyard.cnrad.dev/api/877082451850178642)](https://discord.com/users/877082451850178642)
 
 ---
 
