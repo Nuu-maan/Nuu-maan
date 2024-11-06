@@ -6,8 +6,6 @@
 - 🎮 Outside of coding, I enjoy **gaming**, **software development**, and exploring new technologies.
 - 💼 Open to collaboration on **web development**, **game development**, and **Discord bot projects**.
 
-[![Vinay's Discord Presence](https://lanyard.cnrad.dev/api/877082451850178642)](https://discord.com/users/877082451850178642)
-
 ---
 
 ## 🛠 Tech Stack
