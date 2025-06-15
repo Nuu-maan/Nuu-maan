@@ -2,7 +2,7 @@
 
 > Building tools that make the web more powerful, one repo at a time.
 
-I'm a 16-year-old full-stack developer based in New Delhi, India.  
+I'm a full-stack developer.  
 My focus is on automation, APIs, bots, and backend-heavy systems.
 
 ###  Currently Exploring:
