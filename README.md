@@ -24,7 +24,7 @@ My focus is on automation, APIs, bots, and backend-heavy systems.
   Lightweight AI bot using OpenRouter's LLMs. Fast, flexible, and easy to integrate.
 
  - [`ZeroShare`](https://github.com/Nuu-maan/ZeroShare)
-   ZeroShare is a secure file drop system that lets you share files via end-to-end encrypted links — like Firefox Send. The server never sees your files or keys, so only the person with the link can open the file.
+    ZeroShare is a secure file drop system that lets you share files via end-to-end encrypted links — like Firefox Send. The server never sees your files or keys, so only the person with the link can open the file.
 
 ---
 
