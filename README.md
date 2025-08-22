@@ -2,10 +2,9 @@
 
 > Building tools that make the web more powerful, one repo at a time.
 
-I'm a full-stack developer.
-My focus is on automation, APIs, bots, and backend-heavy systems.
+I'm a full-stack developer focused on **automation, APIs, bots, and backend-heavy systems**.
 
-### Currently Exploring:
+### Currently Exploring
 
 * Reverse engineering
 * WebSockets & real-time systems
@@ -16,8 +15,8 @@ My focus is on automation, APIs, bots, and backend-heavy systems.
 * [`chat-api`](https://github.com/Nuu-maan/chat-api)
   Real-time WebSocket chat API with persistent messaging support.
 
-* [`FastAPI Authentication Boilerplate`]([https://github.com/Nuu-maan/URL-Shortener](https://github.com/Nuu-maan/FastAPI-Authentication-Boilerplate))
- Production-ready authentication starter for FastAPI with clean architecture, JWT (access/refresh via HttpOnly cookies), email verification, password reset, RBAC, sessions, and auditing.
+* [`FastAPI Authentication Boilerplate`](https://github.com/Nuu-maan/FastAPI-Authentication-Boilerplate)
+  Production-ready authentication starter for FastAPI with clean architecture, JWT (access/refresh via HttpOnly cookies), email verification, password reset, RBAC, sessions, and auditing.
 
 * [`Filly-Discord-Token-Filler`](https://github.com/Nuu-maan/Filly-Discord-Token-Filler)
   Automates Discord server joins using multiple tokens. Scripted and efficient.
@@ -26,11 +25,12 @@ My focus is on automation, APIs, bots, and backend-heavy systems.
   Lightweight AI bot using OpenRouter's LLMs. Fast, flexible, and easy to integrate.
 
 * [`ZeroShare`](https://github.com/Nuu-maan/ZeroShare)
-  ZeroShare is a secure file drop system that lets you share files via end-to-end encrypted links — like Firefox Send. The server never sees your files or keys, so only the person with the link can open the file.
+  End-to-end encrypted file drop system — like Firefox Send. The server never sees your files or keys; only the person with the link can decrypt.
 
 * [`DSA`](https://github.com/Nuu-maan/DSA)
-  Comprehensive DSA practice repo with real interview questions, clean solutions in Python, JavaScript, and C++. Professionally organized by topic and difficulty. Perfect for coding interviews and mastering data structures & algorithms.
+  Organized DSA practice repo with real interview questions and clean solutions in Python, JavaScript, and C++. Professionally structured by topic and difficulty.
 
 ---
 
-**Portfolio** → [nuu-maan.live](https://nuu-maan.live)
+**Portfolio →** [nuu-maan.live](https://nuu-maan.live)
+
