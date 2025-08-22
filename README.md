@@ -16,8 +16,8 @@ My focus is on automation, APIs, bots, and backend-heavy systems.
 * [`chat-api`](https://github.com/Nuu-maan/chat-api)
   Real-time WebSocket chat API with persistent messaging support.
 
-* [`URL-Shortener`](https://github.com/Nuu-maan/URL-Shortener)
-  Sleek and simple web app for generating shortened links.
+* [`FastAPI Authentication Boilerplate`]([https://github.com/Nuu-maan/URL-Shortener](https://github.com/Nuu-maan/FastAPI-Authentication-Boilerplate))
+ Production-ready authentication starter for FastAPI with clean architecture, JWT (access/refresh via HttpOnly cookies), email verification, password reset, RBAC, sessions, and auditing.
 
 * [`Filly-Discord-Token-Filler`](https://github.com/Nuu-maan/Filly-Discord-Token-Filler)
   Automates Discord server joins using multiple tokens. Scripted and efficient.
