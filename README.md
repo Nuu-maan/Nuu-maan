@@ -30,6 +30,8 @@ I'm a full-stack developer focused on **automation, APIs, bots, and backend-heav
 * [`DSA`](https://github.com/Nuu-maan/DSA)
   Organized DSA practice repo with real interview questions and clean solutions in Python, JavaScript, and C++. Professionally structured by topic and difficulty.
 
+* [`video-streaming-service`](https://github.com/Nuu-maan/video-streaming-service)
+  Professional video streaming backend with Go, HLS adaptive bitrate streaming, transcoding, and Redis caching. Ready for deployment.
 ---
 
 **Portfolio →** [nuu-maan.live](https://nuu-maan.live)
