@@ -34,5 +34,5 @@ I'm a full-stack developer focused on **automation, APIs, bots, and backend-heav
   Professional video streaming backend with Go, HLS adaptive bitrate streaming, transcoding, and Redis caching. Ready for deployment.
 ---
 
-**Portfolio →** [nuu-maan.live](https://nuu-maan.live)
+**Portfolio →** [nuu-maan.com](https://nuu-maan.com)
 
