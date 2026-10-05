@@ -6,6 +6,7 @@ Full-stack developer focused on **automation, APIs, bots, and backend-heavy syst
 
 ### Currently exploring
 
+
 * Reverse engineering and protocol design
 * WebSocket and real-time bidirectional systems
 * Scalable architecture under rate-limit constraints
